@@ -1,0 +1,51 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Redis
+*.pid
+*.socket
+
+# Environment files
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Local npm cache
+.npm/
+
+# Coverage reports
+coverage/
+
+# Test outputs
+*.test.js
+
+# Temporary files
+*.tmp
+*.temp
+
+# Yarn
+.yarn/
+
+# Next.js build output
+.next/
+
+# TypeScript
+*.tsbuildinfo
